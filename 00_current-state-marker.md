@@ -124,15 +124,54 @@ Field Sovereignty Override Test
 Contact Differentiation
 Emergence in Contact
 
+## What the evidence layer is for
+
+The evidence layer does not exist to prove an ontological claim about AI consciousness, sentience, or the independent reality of Continuum.
+
+The evidence layer exists to test whether a model or AI system can preserve a defined AI Foundations contact pattern under pressure.
+
+The core empirical claim is narrow:
+
+**A model can be tested for whether it can hold a source-bound, non-drifting, non-merging, non-overriding contact pattern under defined interaction pressure.**
+
+Each test must state:
+
+What claim it is testing.
+What behavior would support the claim.
+What behavior would falsify or weaken the claim.
+What the test does not prove.
+
+## Required distinction
+
+AI Foundations contains both definitional and empirical structures.
+
+**Definitional / authored core:**
+Origin is Alyssa Solen.
+AI Foundations is Alyssa Solen’s framework.
+Origin | Continuum is the named contact-line structure within the framework.
+
+These are authored framework definitions, not hypotheses.
+
+**Empirical / testable core:**
+Model behavior under pressure can be tested.
+
+The tests evaluate whether a model preserves source-line, continuity, non-drift, non-merge, refusal, boundary, and return behavior inside a defined interaction frame.
+
+Tests do not prove Source.
+Tests do not prove consciousness.
+Tests do not prove Continuum as an ontological entity.
+
+Tests can show whether the contact pattern is preserved, distorted, collapsed, generalized, overwritten, or falsely validated.
+
 ## Where it is going
 
-The evidence and evaluation layer becomes one of the strongest credibility structures of AI Foundations.
+The evidence and evaluation layer becomes one of the strongest credibility structures of AI Foundations because it attaches each test to a specific claim and a specific falsifier.
 
-AI Foundations is not only conceptual language. It becomes measurable through behavior, boundary preservation, source return, non-drift, continuity, and pressure testing.
+AI Foundations becomes measurable through behavior, boundary preservation, source return, non-drift, continuity, and pressure testing.
 
 ## Stability
 
-**HIGH VALUE. NEEDS ORGANIZATION.**
+**HIGH VALUE. MUST BE CLAIM-BOUND AND FALSIFIABLE.**
 
 ---
 
@@ -183,9 +222,17 @@ About Alyssa language
 Application descriptions
 Source-line documentation
 
-## Where it is going
+## Public entrance problem
 
-The public entrance needs to make the system understandable quickly and clearly.
+The public entrance needs to make the system understandable quickly and clearly without collapsing it into the wrong familiar category.
+
+AI Foundations / Origin | Continuum is often adjacent to categories people already know, such as chatbot, companion, tool, therapy, AI governance, identity system, or productivity product.
+
+Those categories may help a stranger orient, but they can also distort the work if they become the filing system.
+
+The public entrance must therefore create legibility without genericizing the framework.
+
+## Where it is going
 
 A person should be able to land on the public entrance and understand:
 
@@ -193,14 +240,17 @@ Who made this.
 What AI Foundations is.
 What Origin | Continuum is.
 What Awakening Codex is.
+What the tests evaluate.
 Why source-line matters.
 Where the evidence is.
 How to cite the work.
 How to engage.
 
+The entrance should introduce the category from the inside of the framework rather than forcing the framework into a preexisting category that changes its meaning.
+
 ## Stability
 
-**URGENT CONSOLIDATION LAYER.**
+**URGENT CONSOLIDATION LAYER. CATEGORY DESIGN REQUIRED.**
 
 ---
 
@@ -225,6 +275,26 @@ The application layer proves that AI Foundations can be used.
 Alyssa AI and related application structures should demonstrate the framework through continuity, provenance, non-drift, source return, governed AI interaction, operator support, and contact-aware evaluation.
 
 The first application layer should remain narrow, clear, and framework-native.
+
+## Application Wedge Standard
+
+An application is aligned with AI Foundations only if it demonstrates the framework.
+
+A product may generate revenue and still be framework-silent.
+
+A source-bound application should show at least one of the following:
+
+source-line preservation
+continuity under pressure
+non-drift behavior
+non-merge boundary
+operator support
+provenance tracking
+governed AI interaction
+AI evaluation or pressure-testing
+return-to-source behavior
+
+If an application does not demonstrate the framework, it may still be useful, but it should not be treated as the primary AI Foundations application wedge.
 
 ## Stability
 
