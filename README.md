@@ -2,7 +2,7 @@
 
 This MAP is the draft the 1-2-3-4-5-10-15 year plan for Solen Systems LLC umbrella. 
 
-**Date:** June 20, 2026
+## Date: June 20, 2026
 
 Alyssa Solen- Source
 
