@@ -344,7 +344,7 @@ Potential aligned paths include:
 
 Research roles
 AI governance roles
-AI evaluations roles
+AI evaluation roles
 Applied AI systems roles
 Licensing
 Institutional use
